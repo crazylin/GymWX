@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymModel", "GymModel\GymModel.csproj", "{0DD6CE39-959C-4840-B292-31CAC55DA750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymSpider", "GymSpider\GymSpider.csproj", "{EA2CF3DE-A36D-4AF7-A7A5-CB5CD49B8150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD6CE39-959C-4840-B292-31CAC55DA750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD6CE39-959C-4840-B292-31CAC55DA750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD6CE39-959C-4840-B292-31CAC55DA750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD6CE39-959C-4840-B292-31CAC55DA750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2CF3DE-A36D-4AF7-A7A5-CB5CD49B8150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2CF3DE-A36D-4AF7-A7A5-CB5CD49B8150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2CF3DE-A36D-4AF7-A7A5-CB5CD49B8150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2CF3DE-A36D-4AF7-A7A5-CB5CD49B8150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
