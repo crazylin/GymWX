@@ -111,6 +111,7 @@ namespace GymSpider
                                     };
                                     Context.GymClubs.Add(club);
                                     Context.SaveChanges();
+
                                 }
                           
                             }
